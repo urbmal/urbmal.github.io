@@ -1,0 +1,341 @@
+.version.pagina_de_sfarsit /* version checker */
+{
+	color: #000016;
+	background-color: #1D75F6;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1000px;
+	min-height: 765px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u74
+{
+	z-index: 13;
+	padding-bottom: 470px;
+}
+
+#u74_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	left: -100px;
+}
+
+#menuu112
+{
+	z-index: 14;
+	width: 907px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 180px;
+}
+
+#u120
+{
+	width: 165px;
+	min-height: 74px;
+	margin-right: -10000px;
+}
+
+#u123
+{
+	width: 165px;
+	padding-bottom: 52px;
+}
+
+#u123:hover
+{
+	margin: 0px;
+}
+
+#u124-4
+{
+	width: 60px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 26px;
+	left: 52px;
+}
+
+#u123:hover #u124-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u113
+{
+	width: 210px;
+	min-height: 74px;
+	margin-right: -10000px;
+	left: 167px;
+}
+
+#u114
+{
+	width: 210px;
+	padding-bottom: 52px;
+}
+
+#u123.MuseMenuActive,#u114:hover
+{
+	margin: 0px;
+}
+
+#u115-4
+{
+	width: 106px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 26px;
+	left: 52px;
+}
+
+#u123.MuseMenuActive #u124-4,#u114:hover #u115-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u128
+{
+	width: 258px;
+	min-height: 74px;
+	margin-right: -10000px;
+	left: 379px;
+}
+
+#u131
+{
+	width: 258px;
+	padding-bottom: 52px;
+}
+
+#u114.MuseMenuActive,#u131:hover
+{
+	margin: 0px;
+}
+
+#u133-4
+{
+	width: 140px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 26px;
+	left: 52px;
+}
+
+#u114.MuseMenuActive #u115-4,#u131:hover #u133-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u134
+{
+	z-index: 33;
+	width: 14px;
+	height: 14px;
+	margin-right: -10000px;
+	top: 30px;
+	left: 192px;
+}
+
+#u131:hover #u134
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+#u131.MuseMenuActive #u134
+{
+	margin: 0px -10000px 0px 0px;
+}
+
+#u129
+{
+	width: 120px;
+	top: 74px;
+}
+
+#u130,#u710
+{
+	width: 120px;
+}
+
+#u711
+{
+	width: 118px;
+	padding-bottom: 8px;
+	margin-right: -10000px;
+}
+
+#u711:hover
+{
+	width: 118px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u711.MuseMenuActive
+{
+	width: 118px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u713-4
+{
+	width: 72px;
+	min-height: 13px;
+	padding-left: 2px;
+	padding-top: 4px;
+	padding-right: 2px;
+	margin-right: -10000px;
+	top: 4px;
+	left: 19px;
+}
+
+#u135
+{
+	width: 268px;
+	min-height: 74px;
+	margin-right: -10000px;
+	left: 639px;
+}
+
+#u136
+{
+	width: 268px;
+	padding-bottom: 52px;
+}
+
+#u131.MuseMenuActive,#u136:hover
+{
+	margin: 0px;
+}
+
+#u136.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u139-4
+{
+	width: 164px;
+	min-height: 22px;
+	margin-right: -10000px;
+	top: 26px;
+	left: 52px;
+}
+
+#u131.MuseMenuActive #u133-4,#u136:hover #u139-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u136.MuseMenuActive #u139-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u74-bw
+{
+	z-index: 13;
+	height: 114px;
+}
+
+#u569-6
+{
+	z-index: 7;
+	min-height: 81px;
+	color: #FE5105;
+	text-align: center;
+	font-family: alfa-slab-one, serif;
+	font-weight: 400;
+}
+
+#u569-2
+{
+	font-size: 72px;
+	line-height: 86px;
+}
+
+#u569-4
+{
+	font-size: 60px;
+	line-height: 72px;
+}
+
+#u569-6-bw
+{
+	z-index: 7;
+	min-height: 81px;
+	height: 158px;
+}
+
+#u143
+{
+	z-index: 2;
+	padding-bottom: 9px;
+}
+
+#u143_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	left: -100px;
+	margin-bottom: -2px;
+}
+
+#u203-4
+{
+	z-index: 3;
+	width: 1000px;
+	min-height: 12px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 90px;
+}
+
+#u143-bw
+{
+	z-index: 2;
+	margin-top: -2px;
+	height: 53px;
+}
+
+body
+{
+	position: relative;
+	min-width: 1000px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
